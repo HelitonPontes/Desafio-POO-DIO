@@ -6,4 +6,8 @@
     <RootNamespace>Desafio_POO_DIO</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model.csproj" />
+  </ItemGroup>
+
 </Project>

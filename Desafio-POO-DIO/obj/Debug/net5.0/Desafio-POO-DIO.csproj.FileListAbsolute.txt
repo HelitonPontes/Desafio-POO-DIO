@@ -14,3 +14,6 @@ C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\obj\Debug\net
 C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\obj\Debug\net5.0\ref\Desafio-POO-DIO.dll
 C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\obj\Debug\net5.0\Desafio-POO-DIO.pdb
 C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\obj\Debug\net5.0\Desafio-POO-DIO.genruntimeconfig.cache
+C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\bin\Debug\net5.0\Model.dll
+C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\bin\Debug\net5.0\Model.pdb
+C:\Users\User\Desktop\Projetos DIO\Desafio-POO-DIO\Desafio-POO-DIO\obj\Debug\net5.0\Desafio-POO-DIO.csproj.CopyComplete
