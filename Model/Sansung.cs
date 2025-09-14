@@ -10,7 +10,7 @@ namespace Model
     {
         public override void InstalarAplicativo(string lojaApp, string nomeApp)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Entre na loja oficial: {lojaApp}. Nome APP: {nomeApp} ");
         }
     }
 }
